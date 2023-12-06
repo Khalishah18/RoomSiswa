@@ -102,5 +102,7 @@ fun ListSiswa(
     itemSiswa: List<Siswa>,
     modifier: Modifier = Modifier
 ){
+    LazyColumn(modifier = Modifier){
 
+    }
 }
